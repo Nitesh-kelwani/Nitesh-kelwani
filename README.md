@@ -16,15 +16,18 @@
 [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/niteshkelwani)
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niteshrecr@gmail.com)
 
+
 ## 🛠 Languages and Tools
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshkelwani&layout=compact&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,linux,docker" />
 </p>
+
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=nitesh-kelwani&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nitesh-kelwani&show_icons=true&theme=dark" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh-kelwani&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-kelwani&theme=dark" />
 
