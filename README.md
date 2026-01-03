@@ -19,12 +19,12 @@
 ## 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch,sql,git,github,linux,docker" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshkelwani&layout=compact&theme=dark" />
 </p>
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=nitesh-kelwani&show_icons=true&theme=dark" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nitesh-kelwani&theme=dark" />
 
