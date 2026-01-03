@@ -20,14 +20,15 @@
 ## 🛠 Languages and Tools
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshkelwani&layout=compact&theme=dark" />
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,linux,docker" />
 </p>
 
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Nitesh-kelwani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Nitesh-kelwani&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-kelwani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nitesh-kelwani&show_icons=true&theme=dark" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitesh-kelwani&theme=dark" />
+---
+[![](https://visitcount.itsvg.in/api?id=Nitesh-kelwani&icon=0&color=0)](https://visitcount.itsvg.in)
 
