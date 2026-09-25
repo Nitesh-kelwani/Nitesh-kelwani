@@ -1,34 +1,43 @@
-<h1 align="center">Hi 👋, I'm Nitesh Kelwani</h1>
-<h3 align="center">Data Scientist | Machine Learning & Deep Learning Enthusiast</h3>
+<h1 align="center">Hi, I'm Nitesh Kelwani 👋</h1>
+<h3 align="center">AI Engineer · Agentic Systems · LLM Infrastructure · Retrieval</h3>
 
-## 👨‍💻 About Me
-
-- 🎓 Data Science learner with **Deep Learning experience**
-- 🔭 Currently working on **ML & DL projects**
-- 🌱 Learning **advanced ML, CNNs, RNNs, deployment**
-- 🤝 Open to collaborate on **Data Science projects**
-- 💬 Ask me about **Python, ML, DL**
-- 🎯 Goal: **Data Scientist / ML Engineer**
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](www.linkedin.com/in/nitesh-kelwani)
-[![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle)](https://www.kaggle.com/niteshkelwani)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niteshrecr@gmail.com)
-
-
-## 🛠 Languages and Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,git,github,linux,docker" />
+<p align="center">
+  <a href="https://nitesh-kelwani.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/nitesh-kelwani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:niteshrecr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.kaggle.com/niteshkelwani"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
 </p>
 
+I build LLM systems end to end, from data and retrieval to agent design, evaluation and deployment, with a focus on
+reliability, cost and measurable quality rather than demos.
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nitesh-kelwani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Nitesh-kelwani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nitesh-kelwani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🔭 **Now:** AI Specialist at **DermaTouch**, building an agentic customer-support assistant (LangGraph, FastAPI,
+  PostgreSQL/pgvector, Redis, LiteLLM) with hybrid retrieval, guardrails, evaluation and observability, plus AI automation
+  for the support, HR and marketing teams
+- 🧠 **Focus:** agentic AI and agent loops, hybrid search (full-text + trigram + vector with RRF), LLM gateways,
+  guardrails, LLM evaluation, harness engineering
+- 🎓 BCA · Microsoft Certified: Azure Data Scientist Associate (DP-100)
 
----
-[![](https://visitcount.itsvg.in/api?id=Nitesh-kelwani&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🚀 Featured projects
 
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**MediRAG**](https://github.com/Nitesh-kelwani/MediRAG) | Clinical document RAG: cited answers, source review and per-answer faithfulness and hallucination-risk scores | FastAPI · React/TS · Azure AI Search (hybrid + semantic rerank) · Azure OpenAI |
+| [**SQL Chatbot**](https://github.com/Nitesh-kelwani/SQL-Chatbot) | Natural language to safe, read-only SQL, with follow-up memory and plain-English explanations | Azure OpenAI · SQLAlchemy · Streamlit |
+| [**Document Q&A Chatbot**](https://github.com/Nitesh-kelwani/Document-Q-A-Chatbot) | Multi-PDF tool-calling agent with page citations and per-document scoped retrieval | LangChain · FAISS · FastAPI · Streamlit |
+| [**Instagram Influencer Audit**](https://github.com/Nitesh-kelwani/Insta-audit) | Scrapes a creator profile, runs engagement analytics and LLM caption intelligence, exports an Excel audit | Apify · Groq (Llama 3.3) · pandas · FastAPI |
+| [**AI Voice Banking Assistant**](https://github.com/Nitesh-kelwani/ai-voice-banking-assistant) | Voice bot: speech-to-text, LLM structured intent (JSON), slot-filling transfers, cheque check, KYC capture | Gemini · SpeechRecognition · OpenCV · Streamlit |
+| [**Azure RAG Pipeline**](https://github.com/Nitesh-kelwani/azure-rag-pipeline) | Minimal end-to-end RAG: PDF, HNSW vector index, grounded GPT answer | Azure AI Search · Azure OpenAI · Document Intelligence |
+| [**Rasenshuriken CV**](https://github.com/Nitesh-kelwani/rasenshuriken-cv) | Real-time hand-gesture AR effect drawn procedurally on the webcam feed | MediaPipe · OpenCV |
+
+## 🛠 Tech
+
+**Agentic AI & LLMs:** LangGraph · LangChain · tool calling · RAG · NL2SQL · prompt caching · LiteLLM · Azure OpenAI ·
+Gemini · Groq<br>
+**Retrieval & data:** PostgreSQL · pgvector · pg_trgm · Azure AI Search · FAISS · ChromaDB · Redis<br>
+**Backend & infra:** Python · FastAPI · Streamlit · React/TypeScript · Docker · Linux · Git<br>
+**ML:** PyTorch · scikit-learn · Transformers · MLflow · Azure ML
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,azure,react,ts,pytorch,git,linux" alt="Tech icons" />
+</p>
