@@ -2,7 +2,6 @@
 <h3 align="center">AI Engineer · Agentic Systems · LLM Infrastructure · Retrieval</h3>
 
 <p align="center">
-  <a href="https://nitesh-kelwani.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/nitesh-kelwani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:niteshrecr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://www.kaggle.com/niteshkelwani"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
@@ -11,11 +10,8 @@
 I build LLM systems end to end, from data and retrieval to agent design, evaluation and deployment, with a focus on
 reliability, cost and measurable quality rather than demos.
 
-- 🔭 **Now:** AI Specialist at **DermaTouch**, building an agentic customer-support assistant (LangGraph, FastAPI,
-  PostgreSQL/pgvector, Redis, LiteLLM) with hybrid retrieval, guardrails, evaluation and observability, plus AI automation
-  for the support, HR and marketing teams
-- 🧠 **Focus:** agentic AI and agent loops, hybrid search (full-text + trigram + vector with RRF), LLM gateways,
-  guardrails, LLM evaluation, harness engineering
+- 🔭 **Now:** shipping LLM assistants and AI automations in production
+- 🧠 **Focus:** agentic AI, retrieval and RAG, LLM evaluation, guardrails, LLM gateways and harness engineering
 - 🎓 BCA · Microsoft Certified: Azure Data Scientist Associate (DP-100)
 
 ## 🚀 Featured projects
@@ -34,7 +30,7 @@ reliability, cost and measurable quality rather than demos.
 
 **Agentic AI & LLMs:** LangGraph · LangChain · tool calling · RAG · NL2SQL · prompt caching · LiteLLM · Azure OpenAI ·
 Gemini · Groq<br>
-**Retrieval & data:** PostgreSQL · pgvector · pg_trgm · Azure AI Search · FAISS · ChromaDB · Redis<br>
+**Retrieval & data:** PostgreSQL · pgvector · Azure AI Search · FAISS · ChromaDB · Redis<br>
 **Backend & infra:** Python · FastAPI · Streamlit · React/TypeScript · Docker · Linux · Git<br>
 **ML:** PyTorch · scikit-learn · Transformers · MLflow · Azure ML
 
